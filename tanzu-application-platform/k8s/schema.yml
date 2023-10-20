@@ -1,0 +1,12 @@
+#@data/values-schema
+---
+
+
+openai:
+  #@schema/validation not_null
+  key:  
+
+  #@schema/validation not_null       
+  endpoint: 
+
+  

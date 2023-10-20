@@ -1,0 +1,1 @@
+tanzu apps workload tail acme-assist -n acme-fitness --since 1h

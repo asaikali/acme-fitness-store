@@ -1,0 +1,1 @@
+ytt  -f resources --data-values-file values.yml | kapp deploy -a acme-fitness  -f- -y

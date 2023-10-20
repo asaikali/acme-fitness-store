@@ -57,3 +57,4 @@ hello-world/
 
 # vsCode
 .vscode
+tanzu-application-platform/k8s/values.yml
